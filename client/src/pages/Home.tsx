@@ -39,7 +39,7 @@ const GALLERY_ITEMS = [
   makeItem(20, "Z8P_5393_crswmi", "Photos/Concerts", 8256, 5504, "Concert 20"),
   makeItem(21, "Z8P_4983-Enhanced-NR_vobsw9", "Photos/Concerts", 5504, 8256, "Concert 21"),
   makeItem(22, "Z8P_5063-Enhanced-NR_abjomk", "Photos/Concerts", 8256, 5504, "Concert 22"),
-  makeItem(23, "Z8P_5018-Enhanced-NR_wr1ede", "Photos/Concerts", 3592, 5392, "Concert 23"),
+  makeItem(23, "Z8P_5018-Enhanced-NR_wt1ede", "Photos/Concerts", 3592, 5392, "Concert 23"),
   makeItem(24, "Z8P_7589_rcftlr", "Photos/Concerts", 8256, 5504, "Concert 24"),
   makeItem(25, "Z8P_5148_hwt7hl", "Photos/Concerts", 7357, 4905, "Concert 25"),
   makeItem(26, "Z8P_7515_syj3hk", "Photos/Concerts", 8256, 5504, "Concert 26"),
