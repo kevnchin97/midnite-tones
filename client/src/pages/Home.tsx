@@ -1,5 +1,5 @@
 /*
- * HENRY HWU PORTFOLIO — Home Page (Updated for Videographer)
+ 
  * Design: Brutalist Editorial Photography Portfolio
  * Layout: Fixed 200px left sidebar + two-column masonry gallery
  * Background: Warm beige rgb(223,221,216)

@@ -1,4 +1,4 @@
-# Henry HWU Portfolio — Design Ideas
+
 
 <response>
 <idea>
@@ -87,6 +87,5 @@
 <probability>0.07</probability>
 </response>
 
-## Selected Design: Option 1 — Brutalist Editorial Photography Portfolio
 
-This is the faithful replication of the original henry-hwu.com design: fixed left sidebar with HH monogram logo, warm beige background, two-column masonry grid, minimal typography in Proxima Nova style.
+
