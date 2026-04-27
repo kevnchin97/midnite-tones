@@ -11,7 +11,7 @@ const makeItem = (id: number, file: string, folder: string, w: number, h: number
   id,
   type: "image" as const,
   src: `${BASE}/${folder}/${file}.jpg`,
-  thumb: `${BASE}/w_400,h_400,c_fill/${folder}/${file}.jpg`,
+  thumb: `${BASE}/w_800,c_scale,q_auto,f_auto/${folder}/${file}.jpg`,
   alt,
   dims: `${w}x${h}`,
 });
